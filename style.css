@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(4, 4, 88);
+    margin: 0px;
+}
+.top-wrapper{
+    background-color: rgb(10, 90, 10);
+    width:70%;
+    height: 125px;
+    margin-left: 200px;
+}
+.middle-wrapper{
+    background-color: rgb(189, 136, 66);
+    width:70%;
+    height: 400px;
+    margin-left: 200px; 
+}
+.bottom-wrapper{
+    background-color: orangered;
+    width:70%;
+    height: 125px;
+    margin-left: 200px;
+}
